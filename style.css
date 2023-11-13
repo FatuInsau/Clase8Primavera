@@ -1,0 +1,8 @@
+body {
+    background-image: url(./imagenes/las_5_razas_de_gatos_mas_pequenos_del_mundo_23069_600_square.jpg);
+    background-repeat: repeat-x;
+    background-position: bottom right;
+    height: 100vh;
+    background-attachment: fixed;
+    background-color: aquamarine;
+}
